@@ -1,5 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+## 新手指南
 
-测试章节
+* [Introduction](README.md)
+* [如何编写](ru-he-bian-xie.md)
+
